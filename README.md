@@ -1,6 +1,6 @@
 <div align="center">
 
-# John Andrew Emmanuel Avelino
+# Andrew Avelino
 
 ### Bachelor of Science in Information Systems • Business Analytics Major
 
