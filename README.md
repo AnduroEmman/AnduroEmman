@@ -2,7 +2,7 @@
 
 # John Andrew Emmanuel Avelino
 
-### Information Systems Graduate • Business Analytics Major
+### Bachelor of Science in Information Systems • Business Analytics Major
 
 Data-driven builder focused on AI, Machine Learning, Data Science, and Analytics.
 
