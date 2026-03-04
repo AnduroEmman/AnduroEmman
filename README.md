@@ -95,9 +95,9 @@ I'm a **data-driven problem solver** with a foundation in Information Systems an
 ---
 
 ## 🎯 Let's Connect
-📌 **Portfolio & Case Studies** – [View My Work](#portfolio-link-coming)  
-📧 **Email** – [Reach out for collaboration](#)  
-💼 **LinkedIn** – [Connect with me](#)  
+📌 **Portfolio & Case Studies** – [View My Work](#https://portfolio-red-nine-63.vercel.app/)  
+📧 **Email** – [Reach Out to Me](mailto:avelino.johnandrewemmanuel@gmail.com)  
+💼 **LinkedIn** – [Connect with me](https://www.linkedin.com/in/john-andrew-emmanuel-avelino-a34835397/)  
 
 *👉 Recruiters: Check out my portfolio above for live projects, case studies, and technical insights.*
 
