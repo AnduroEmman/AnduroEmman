@@ -12,13 +12,34 @@ Data-driven builder focused on AI, Machine Learning, Data Science, and Analytics
 
 ---
 
-## Introduction
-I am a graduate of Information Systems major in Business Analytics, with a strong focus on turning data into practical and measurable outcomes. I build solutions that combine analytics, machine learning, and clear communication of insights.
+## About Me
+I'm a **data-driven problem solver** with a foundation in Information Systems and Business Analytics. I transform raw data into actionable insights by combining rigorous analytical thinking with practical machine learning and full-stack development skills. My approach bridges business strategy and technical execution—I don't just build models; I ensure they deliver measurable business value.
+
+### What Sets Me Apart
+**🎯 Business Analytics DNA** – Trained to ask the right questions and connect insights to business outcomes, not just run analyses.
+
+**🔧 Full-Stack Capability** – From data pipeline engineering (SQL, Python) to visualization (Power BI, dashboards) to application deployment (React, Next.js), I own the entire journey.
+
+**🤖 ML-Ready** – Comfortable with model development, evaluation, and statistical rigor using Python, R, Scikit-learn, and JASP.
+
+**📊 Clear Communicator** – I explain complex findings to non-technical stakeholders and build visual stories that drive decisions.
+
+---
+
+## Key Highlights 🔍
+- ✅ **End-to-End Analytics Projects**: data sourcing → transformation → modeling → visualization → insights
+- ✅ **Business Impact Focus**: delivered dashboards and analyses that inform strategic decisions  
+- ✅ **Modern Data Stack**: SQL, Python, R, Power BI; databases from MySQL to PostgreSQL to Firebase
+- ✅ **Production-Ready Applications**: capable of shipping data products using React, Next.js, Flutter
+- ✅ **Statistical Rigor**: trained in both frequentist and modern ML approaches
+
+---
 
 ## Current Focus
 - Developing end-to-end data workflows from preparation to visualization
 - Applying machine learning techniques to business and operations use cases
 - Creating dashboards and reports that support data-informed decision making
+- Contributing to open-source or high-impact projects in analytics and AI/ML spaces
 
 ## Tech Stack and Tools
 
@@ -70,6 +91,17 @@ I am a graduate of Information Systems major in Business Analytics, with a stron
 - Grow into a high-impact AI and data professional
 - Contribute to products and teams where analytics drives strategic decisions
 - Build intelligent applications that solve meaningful real-world problems
+
+---
+
+## 🎯 Let's Connect
+📌 **Portfolio & Case Studies** – [View My Work](#portfolio-link-coming)  
+📧 **Email** – [Reach out for collaboration](#)  
+💼 **LinkedIn** – [Connect with me](#)  
+
+*👉 Recruiters: Check out my portfolio above for live projects, case studies, and technical insights.*
+
+---
 
 ## GitHub Stats
 <div align="center">
