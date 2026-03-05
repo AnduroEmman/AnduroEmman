@@ -4,7 +4,7 @@
 
 ### Bachelor of Science in Information Systems • Business Analytics Major
 
-Data-driven builder focused on AI, Machine Learning, Data Science, and Analytics.
+Data-driven builder focused on Analytics, Machine Learning, and Data Science.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AnduroEmman&style=flat-square&color=0e75b6)
 
